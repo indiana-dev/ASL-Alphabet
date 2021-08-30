@@ -35,8 +35,5 @@ I made a script that use the trained model in order to predict the signs that ar
 
 I also added a feature that writes a sequence of signs as letters on the top left corner of the screen in order for the user to form simple words. Two 'delete' and 'reset' buttons can also be activated when a hand is detected inside their bounding box to have a better control over the sequence of letters.
 
-An example of all of these features can be shown in the demonstration below :
 
-<iframe width="100%" 
-src="https://www.youtube.com/embed/XoeKoQWkRt0">
-</iframe>
+An example of all of these features can be shown in [this youtube video](https://www.youtube.com/watch?v=XoeKoQWkRt0)

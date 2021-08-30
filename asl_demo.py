@@ -1,3 +1,11 @@
+###
+### All the content of this file is under the property 
+### of Capgemini's Applied Innovation Exchange.
+###
+### Author : Alexandre Bizord
+### Date : 2021
+###
+
 import cv2
 import mediapipe as mp
 import torch
